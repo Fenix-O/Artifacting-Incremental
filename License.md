@@ -1,5 +1,5 @@
-Code Credit License
-Development Draft
+Code Credit License-
+-Development Draft
 
 Purpose; 
 This license gives everyone as much permission to work with this software as possible, while protecting contributors from liability and requiring credit for their work.
